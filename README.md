@@ -9,7 +9,7 @@
 
 
 <h1>¡Bienvenid@, me llamo Brandon!</h1>
-  <img decoding="async" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtsOTB5ZXJoeGNxaTNocWhseXo0NmwzdzY0eDd5emh2ajFnZDZrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1DqOFqULOqe5y/giphy.webp" width="120px"/>
+  <img decoding="async" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkMXBuYjNiaWR3dXB5MHpneTc3bnFldWF0cmIweWh4YWY0a3U5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cXblnKXr2BQOaYnTni/giphy.webp" width="120px"/>
 
 
 
