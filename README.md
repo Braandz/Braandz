@@ -67,4 +67,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=Braandz alt=Braandz /> </p>
+
